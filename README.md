@@ -5,8 +5,7 @@
 ![Week](https://img.shields.io/badge/Week-4%20of%208-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-**Name:** Usman Asif
-
+**Name:** Usman Asif     
 **Date:** 17th May, 2026  
 **Program:** AI/ML Internship — Digitech Offerings  
 **Instructor:** Zain Ul Abideen
