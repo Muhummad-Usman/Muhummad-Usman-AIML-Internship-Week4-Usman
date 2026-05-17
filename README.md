@@ -6,6 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 **Name:** Usman Asif
+
 **Date:** 17th May, 2026  
 **Program:** AI/ML Internship — Digitech Offerings  
 **Instructor:** Zain Ul Abideen
